@@ -1,0 +1,1 @@
+export { default } from 'ember-animate-number/components/animate-number';
